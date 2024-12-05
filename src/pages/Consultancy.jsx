@@ -12,42 +12,42 @@ const Consultancy = () => {
       title: 'Cardiology',
       description:
         'Expert consultations for heart-related conditions and preventive care.',
-      image: './assets/cardiology.jpeg' ,
+      image: 'https://via.placeholder.com/400x250' ,
     },
     {
       id: 2,
       title: 'Dermatology',
       description:
         'Skin care consultations for all skin types and conditions.',
-      image: './assets/cardiology.jpeg',
+      image: 'https://via.placeholder.com/400x250',
     },
     {
       id: 3,
       title: 'Pediatrics',
       description:
         'Comprehensive care for children, from newborns to adolescents.',
-      image: '',
+      image: 'https://via.placeholder.com/400x250',
     },
     {
       id: 4,
       title: 'Neurology',
       description:
         'Consult with specialists on brain and nervous system disorders.',
-      image: './assets/cardiology.jpeg',
+      image: 'https://via.placeholder.com/400x250',
     },
     {
       id: 5,
       title: 'Orthopedics',
       description:
         'Treatment for bone, joint, and muscle issues from experienced doctors.',
-      image: './assets/cardiology.jpeg',
+      image: 'https://via.placeholder.com/400x250',
     },
     {
       id: 6,
       title: 'General Medicine',
       description:
         'General health consultations and preventive check-ups.',
-      image: './assets/cardiology.jpeg',
+      image: 'https://via.placeholder.com/400x250',
     },
   ];
 
