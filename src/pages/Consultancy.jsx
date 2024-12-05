@@ -19,35 +19,35 @@ const Consultancy = () => {
       title: 'Dermatology',
       description:
         'Skin care consultations for all skin types and conditions.',
-      image: 'https://images.app.goo.gl/WMc3i4Z3WNCraBeW6',
+      image: './assets/cardiology.jpeg',
     },
     {
       id: 3,
       title: 'Pediatrics',
       description:
         'Comprehensive care for children, from newborns to adolescents.',
-      image: 'https://images.app.goo.gl/oCMuYps2Txwhuxu7A',
+      image: '',
     },
     {
       id: 4,
       title: 'Neurology',
       description:
         'Consult with specialists on brain and nervous system disorders.',
-      image: 'https://images.app.goo.gl/9GE1MGr2cLu4fRy98',
+      image: './assets/cardiology.jpeg',
     },
     {
       id: 5,
       title: 'Orthopedics',
       description:
         'Treatment for bone, joint, and muscle issues from experienced doctors.',
-      image: 'https://images.app.goo.gl/imYJx7bTGx1mkHq98',
+      image: './assets/cardiology.jpeg',
     },
     {
       id: 6,
       title: 'General Medicine',
       description:
         'General health consultations and preventive check-ups.',
-      image: 'https://images.app.goo.gl/T17E8vF7MQuec1rp8',
+      image: './assets/cardiology.jpeg',
     },
   ];
 
