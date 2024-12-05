@@ -1,5 +1,7 @@
 import React from 'react';
 import { useNavigate } from 'react-router-dom';
+import cardiologyImage from './assets/images/cardiology.jpg';
+
 
 const Consultancy = () => {
   const navigate = useNavigate();
@@ -10,7 +12,7 @@ const Consultancy = () => {
       title: 'Cardiology',
       description:
         'Expert consultations for heart-related conditions and preventive care.',
-      image: 'assets/cardiology.jpeg',
+      image:  cardiologyImage,
     },
     {
       id: 2,
