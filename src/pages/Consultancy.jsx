@@ -10,7 +10,7 @@ const Consultancy = () => {
       title: 'Cardiology',
       description:
         'Expert consultations for heart-related conditions and preventive care.',
-      image: 'https://via.placeholder.com/400x250',
+      image: 'https://images.app.goo.gl/gRNusvDmX2P3tLHEA',
     },
     {
       id: 2,
